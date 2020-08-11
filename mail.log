@@ -1,0 +1,48 @@
+2020-07-24 01:38:07.160  INFO 10084 --- [main] org.icg.dyapp.mail.MailServerApp         : Starting MailServerApp on DESKTOP-NEFOGQ5 with PID 10084 (E:\Code\java\dyapp-servers\mailserver\target\classes started by cdz in E:\Code\java\dyapp-servers)
+2020-07-24 01:38:07.165  INFO 10084 --- [main] org.icg.dyapp.mail.MailServerApp         : No active profile set, falling back to default profiles: default
+2020-07-24 01:38:09.781  INFO 10084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2020-07-24 01:38:09.797  INFO 10084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-24 01:38:09.798  INFO 10084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-24 01:38:09.927  INFO 10084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-24 01:38:09.928  INFO 10084 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2696 ms
+2020-07-24 01:38:10.276  INFO 10084 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-24 01:38:10.637  INFO 10084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2020-07-24 01:38:10.655  INFO 10084 --- [main] org.icg.dyapp.mail.MailServerApp         : Started MailServerApp in 4.295 seconds (JVM running for 5.13)
+2020-07-24 01:38:29.525  INFO 10084 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-24 01:38:29.526  INFO 10084 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-24 01:38:29.536  INFO 10084 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2020-07-24 01:38:31.462  INFO 10084 --- [http-nio-8082-exec-1] o.i.d.mail.controller.MailController     : 邮件系统发送邮件成功,email=1054179583@qq.com code=1234
+2020-07-24 01:42:12.250  INFO 14440 --- [main] org.icg.dyapp.mail.MailServerApp         : Starting MailServerApp on DESKTOP-NEFOGQ5 with PID 14440 (E:\Code\java\dyapp-servers\mailserver\target\classes started by cdz in E:\Code\java\dyapp-servers)
+2020-07-24 01:42:12.255  INFO 14440 --- [main] org.icg.dyapp.mail.MailServerApp         : No active profile set, falling back to default profiles: default
+2020-07-24 01:42:14.481  INFO 14440 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2020-07-24 01:42:14.503  INFO 14440 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-24 01:42:14.503  INFO 14440 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-24 01:42:14.629  INFO 14440 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-24 01:42:14.630  INFO 14440 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2307 ms
+2020-07-24 01:42:15.015  INFO 14440 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-24 01:42:15.287  INFO 14440 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2020-07-24 01:42:15.329  INFO 14440 --- [main] org.icg.dyapp.mail.MailServerApp         : Started MailServerApp in 3.918 seconds (JVM running for 4.701)
+2020-07-24 01:42:43.349  INFO 14088 --- [main] org.icg.dyapp.mail.MailServerApp         : Starting MailServerApp on DESKTOP-NEFOGQ5 with PID 14088 (E:\Code\java\dyapp-servers\mailserver\target\classes started by cdz in E:\Code\java\dyapp-servers)
+2020-07-24 01:42:43.355  INFO 14088 --- [main] org.icg.dyapp.mail.MailServerApp         : No active profile set, falling back to default profiles: default
+2020-07-24 01:42:45.891  INFO 14088 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2020-07-24 01:42:45.914  INFO 14088 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-24 01:42:45.914  INFO 14088 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-24 01:42:46.067  INFO 14088 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-24 01:42:46.067  INFO 14088 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2651 ms
+2020-07-24 01:42:46.466  INFO 14088 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-24 01:42:46.737  INFO 14088 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2020-07-24 01:42:46.759  INFO 14088 --- [main] org.icg.dyapp.mail.MailServerApp         : Started MailServerApp in 4.274 seconds (JVM running for 5.113)
+2020-07-24 01:42:57.690  INFO 14088 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-24 01:42:57.691  INFO 14088 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-24 01:42:57.706  INFO 14088 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2020-07-24 01:42:59.665  INFO 14088 --- [http-nio-8082-exec-1] o.i.d.mail.controller.MailController     : 邮件系统发送邮件成功,email=1054179583@qq.com code=1234
+2020-07-24 01:46:57.655  INFO 7668 --- [main] org.icg.dyapp.mail.MailServerApp         : Starting MailServerApp on DESKTOP-NEFOGQ5 with PID 7668 (E:\Code\java\dyapp-servers\mailserver\target\classes started by cdz in E:\Code\java\dyapp-servers)
+2020-07-24 01:46:57.663  INFO 7668 --- [main] org.icg.dyapp.mail.MailServerApp         : No active profile set, falling back to default profiles: default
+2020-07-24 01:46:59.974  INFO 7668 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2020-07-24 01:46:59.996  INFO 7668 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-24 01:46:59.996  INFO 7668 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-24 01:47:00.221  INFO 7668 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-24 01:47:00.222  INFO 7668 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2497 ms
+2020-07-24 01:47:00.685  INFO 7668 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-24 01:47:00.964  INFO 7668 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2020-07-24 01:47:00.987  INFO 7668 --- [main] org.icg.dyapp.mail.MailServerApp         : Started MailServerApp in 4.136 seconds (JVM running for 4.899)
